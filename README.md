@@ -1,4 +1,4 @@
-![Inteligencia-OSINT](Intelig-ncia-OSINT.jpg)
+
 
 Inteligência de código aberto (OSINT)
 
