@@ -1,3 +1,5 @@
+![Inteligencia-OSINT](Intelig-ncia-OSINT.jpg)
+
 Inteligência de código aberto (OSINT)
 
 Inteligência de código aberto (OSINT) são dados coletados de fontes abertas e disponíveis publicamente. A seguir estão alguns recursos e referências OSINT:
